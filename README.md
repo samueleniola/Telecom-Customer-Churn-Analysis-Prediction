@@ -9,7 +9,7 @@
 
 ## 📊 Project Overview
 
-This project analyzes **100,000+ telecom customers** (170,000+ data points) to identify churn patterns and build predictive models. The insights help reduce customer attrition through targeted retention campaigns.
+I analyzes **100,000+ telecom customers** (170,000+ data points) to identify churn patterns and build predictive models. The insights help reduce customer attrition through targeted retention campaigns.
 
 ### Key Business Impact
 - ✅ **27%** current churn rate → **18%** target (33% reduction)
